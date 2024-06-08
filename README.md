@@ -8,7 +8,7 @@ _Esto es un subtitulo_
 - ##### luis
 #### Manual de usuario:
 
-### Paso 1: 
+- ### Paso 1: 
 djewifjeofijfeoifjeoifjeoifjefoiejmifejvoejofemoffmvijewoijemiwej
 vewjifejfoie
 efvejewijemijoedede
